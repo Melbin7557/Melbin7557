@@ -14,7 +14,7 @@
 
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"
+  <img src="https://github.com/Melbin7557/Melbin7557/blob/output/github-contribution-grid-snake-dark.svg"
        alt="GitHub Contribution Snake" />
 </div>
 
@@ -105,17 +105,17 @@ An academic project focused on automating banking operations through a cloud-bas
 
 <p align="center">
   <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api?username=Melbin7557E&show_icons=true&theme=radical&hide_border=true"
        alt="GitHub Stats" />
 
   <img width="49%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Melbin7557&theme=radical&hide_border=true"
        alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img width="50%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melbin7557&layout=compact&theme=radical&hide_border=true"
        alt="Top Languages" />
 </p>
 
@@ -129,7 +129,7 @@ An academic project focused on automating banking operations through a cloud-bas
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7"
+  <img src="https://github-profile-trophy.vercel.app/?username=Melbin7557&theme=radical&no-frame=true&row=1&column=7"
        width="95%"
        alt="GitHub Trophies" />
 </p>
@@ -144,7 +144,7 @@ An academic project focused on automating banking operations through a cloud-bas
 </div>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Melbin7557">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
