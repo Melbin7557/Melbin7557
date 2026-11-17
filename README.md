@@ -122,17 +122,8 @@ An academic project focused on automating banking operations through a cloud-bas
 ---
 
 <!-- GitHub Trophies -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2>GitHub Achievements 🏆</h2></summary>
-  </ul>
-</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Melbin7557&theme=radical&no-frame=true&row=1&column=7"
-       width="95%"
-       alt="GitHub Trophies" />
-</p>
+
 
 ---
 
